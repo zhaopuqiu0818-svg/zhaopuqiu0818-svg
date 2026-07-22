@@ -1,5 +1,5 @@
 ## Hi there, this is Puqiu (Kevin) Zhao 赵浦求
-I am a first-year PhD student in Political Science at King's College London ([DPE](https://www.kcl.ac.uk/political-economy)). I am interested in environment and cimate politics, European Politics, and electoral behaviour. Previous, I completed an MA in International Relations at China Foreign Affairs University, an MSc in Economics and International Relations at University of East Anglia, and an BSC in Public Administration at University of International Relations (Beijing). You can learn more about me on my [website](https://puqiuzhao.com/).
+I am a first-year PhD student in Political Science at King's College London ([DPE](https://www.kcl.ac.uk/political-economy)). I am interested in environment and climate politics, European Politics, and electoral behaviours. Previous, I completed an MA in International Relations at China Foreign Affairs University, an MSc in Economics and International Relations at University of East Anglia, and an BSC in Public Administration at University of International Relations (Beijing). You can learn more about me on my [website](https://puqiuzhao.com/).
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaopuqiu0818-svg&show_icons=true&theme=default)
 
