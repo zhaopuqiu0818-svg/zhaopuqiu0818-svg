@@ -5,7 +5,7 @@ I am a first-year PhD student in Political Science at King's College London ([DP
 
 ### :chart_with_upwards_trend: Programming Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white) 
-![Stata](https://img.shields.io/badge/Stata-1A5276?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00IDl2MTBoMlY5SDR6bTUgN3YzaDJ2LTNIOXptNS04djExaDJWOFptNS01djE2aDJWM0gxOXoiLz48L3N2Zz4%3D)
+![Stata](https://img.shields.io/badge/Stata-1A5276?style=plastic&logo=reactgridlayout&logoColor=white)
 
 ### 💻: Programming Tools
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=rstudio&logoColor=white)
